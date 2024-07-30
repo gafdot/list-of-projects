@@ -1,6 +1,10 @@
 # List of projects
 A summary of all my projects
 ## Machine Learning
+* Association rules and clustering
+
+  https://github.com/gafdot/projetos-basicos-de-ml-nao-supervisionado
+
 * Prediction of values ​​for real estate.
 
   https://github.com/gafdot/ML-com-dados-imobiliarios
