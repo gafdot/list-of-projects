@@ -1,7 +1,19 @@
 # List of projects
 A summary of all my projects
 ## Machine Learning
-* Association rules and clustering
+* Creating a music recommender.
+
+  https://github.com/gafdot/Recomendador-de-musicas
+
+* Assessing the selling price of a car.
+
+  https://github.com/gafdot/ML-com-dados-de-automoveis
+
+* Identifying customer behaviors in a bank.
+  
+  https://github.com/gafdot/ML-com-dados-bancarios
+  
+* Association rules and clustering.
 
   https://github.com/gafdot/projetos-basicos-de-ml-nao-supervisionado
 
