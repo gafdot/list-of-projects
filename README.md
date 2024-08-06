@@ -1,6 +1,17 @@
 # List of projects
 A summary of all my projects
+## Deep Learning
+
+* Fashion image identification.
+
+  https://github.com/gafdot/deteccao-de-imagens-28x28
+
+* Introduction to Neural Networks.
+
+  https://github.com/gafdot/deep-learning-basico
+
 ## Machine Learning
+
 * Creating a music recommender.
 
   https://github.com/gafdot/Recomendador-de-musicas
