@@ -17,6 +17,10 @@ A summary of all my projects
 * Sentiment Analysis for Movie Reviews.
 
   https://github.com/gafdot/NLP-sentiment-analysis
+
+  * Using Apache Spark.
+ 
+    https://github.com/gafdot/NLP-sentiment-analysis-with-Apache-Spark
 ## Deep Learning
 
 * An introduction to the PyTorch library.
@@ -52,6 +56,10 @@ A summary of all my projects
 
   https://github.com/gafdot/ML-com-dados-imobiliarios
 
+  * Using Apache Spark.
+
+    https://github.com/gafdot/Apache-Spark-com-dados-imobiliarios
+
 * Evaluating medical data for diagnosis prediction.
   
   https://github.com/gafdot/ML-com-dados-medicos
@@ -59,6 +67,10 @@ A summary of all my projects
 * Assessing the evasion rate of a telecommunications company.
   
   https://github.com/gafdot/ML-para-equipe-de-vendas
+
+  * Using Apache Spark.
+ 
+    https://github.com/gafdot/Apache-Spark-para-equipe-de-vendas
 
 * A series with basic classifier models.
  
