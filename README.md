@@ -1,6 +1,27 @@
 # List of projects
 A summary of all my projects
+## Natural Language Processing
+
+* Word2vec template for classifying news titles.
+
+  https://github.com/gafdot/NLP-with-Word2Vec
+
+* Language identifier for English, Spanish and Portuguese.
+
+  https://github.com/gafdot/identificador-de-idioma
+
+* Spell Checker.
+
+  https://github.com/gafdot/Corretor-ortografico
+
+* Sentiment Analysis for Movie Reviews.
+
+  https://github.com/gafdot/NLP-sentiment-analysis
 ## Deep Learning
+
+* An introduction to the PyTorch library.
+
+  https://github.com/gafdot/o-basico-com-pytorch
 
 * Fashion image identification.
 
@@ -9,8 +30,7 @@ A summary of all my projects
 * Introduction to Neural Networks.
 
   https://github.com/gafdot/deep-learning-basico
-
-## Machine Learning
+## Machine Learning and Data Science
 
 * Creating a music recommender.
 
