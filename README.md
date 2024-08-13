@@ -1,5 +1,10 @@
 # List of projects
 A summary of all my projects
+## Computer Vision
+* Low Code computer-vision model.
+
+  https://github.com/gafdot/image-recognition
+
 ## Natural Language Processing
 
 * Word2vec template for classifying news titles.
@@ -34,6 +39,11 @@ A summary of all my projects
 * Introduction to Neural Networks.
 
   https://github.com/gafdot/deep-learning-basico
+## PowerBI
+
+* Repository of Dashboards made in Power BI.
+
+  https://github.com/gafdot/PowerBI-dashboards
 ## Machine Learning and Data Science
 
 * Creating a music recommender.
